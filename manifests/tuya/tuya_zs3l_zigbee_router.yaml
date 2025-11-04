@@ -1,4 +1,4 @@
-name: ZS3L Zigbee Router
+name: Tuya ZS3L Zigbee Router
 device: EFR32MG21A020F1024IM32
 base_project: src/zigbee_router
 filename: "{manifest_name}_{ezsp_version}_{baudrate}_{fw_variant}"
